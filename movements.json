@@ -1,0 +1,164 @@
+{
+    "Abstract_Expressionism": {
+        "name": "Abstract Expressionism",
+        "period": "1940-1960",
+        "origin": "United States",
+        "description": "Abstract Expressionism emerged in New York after World War II as the first major American avant-garde movement. Artists emphasized spontaneous, automatic, or subconscious creation, often working on large canvases. The movement is divided into two main approaches: Action Painting with gestural brushstrokes and Color Field Painting with large areas of color."
+    },
+    "Action_Painting": {
+        "name": "Action Painting",
+        "period": "1940-1960",
+        "origin": "United States",
+        "description": "Action Painting is a style within Abstract Expressionism that emphasizes the physical act of painting itself. Artists like Jackson Pollock dripped and splashed paint onto canvases laid on the floor. The technique treats the canvas as an arena for action rather than a space for representation. The resulting works capture the energy and movement of the creative process."
+    },
+    "Analytical_Cubism": {
+        "name": "Analytical Cubism",
+        "period": "1908-1912",
+        "origin": "France",
+        "description": "Analytical Cubism was the early phase of Cubism developed by Pablo Picasso and Georges Braque. Objects were broken down into geometric fragments and shown from multiple viewpoints simultaneously. The color palette was typically restricted to browns, grays, and ochres. This revolutionary approach fundamentally changed how artists represented three-dimensional space."
+    },
+    "Art_Nouveau": {
+        "name": "Art Nouveau",
+        "period": "1890-1910",
+        "origin": "Europe",
+        "description": "Art Nouveau was an international decorative style characterized by organic, flowing lines inspired by natural forms. It sought to break down the distinction between fine arts and applied arts. The style influenced architecture, furniture, jewelry, and graphic design. Notable practitioners include Gustav Klimt, Alphonse Mucha, and Antoni Gaudí."
+    },
+    "Baroque": {
+        "name": "Baroque",
+        "period": "1600-1750",
+        "origin": "Italy",
+        "description": "The Baroque period emerged in Rome as a response to the Protestant Reformation, emphasizing grandeur and emotional intensity. Artists used dramatic lighting, rich colors, and dynamic compositions to create powerful visual experiences. The style was embraced by the Catholic Church to inspire awe and devotion. Masters include Caravaggio, Rembrandt, and Vermeer."
+    },
+    "Color_Field_Painting": {
+        "name": "Color Field Painting",
+        "period": "1950-1970",
+        "origin": "United States",
+        "description": "Color Field Painting is characterized by large areas of flat color spread across the canvas, creating an immersive visual experience. Unlike Action Painting, it emphasizes contemplative, meditative qualities. Artists like Mark Rothko and Barnett Newman explored the emotional and spiritual power of pure color. The movement sought to create direct emotional impact through color alone."
+    },
+    "Contemporary_Realism": {
+        "name": "Contemporary Realism",
+        "period": "1960-present",
+        "origin": "International",
+        "description": "Contemporary Realism is a movement that continues the tradition of realistic representation in modern times. Artists focus on depicting subjects with precise accuracy while addressing contemporary themes. The style often incorporates photographic techniques and explores everyday life. It stands in contrast to abstract and conceptual art movements."
+    },
+    "Cubism": {
+        "name": "Cubism",
+        "period": "1907-1920",
+        "origin": "France",
+        "description": "Cubism was a revolutionary art movement pioneered by Pablo Picasso and Georges Braque that transformed European painting and sculpture. It abandoned traditional perspective to show objects from multiple angles simultaneously. The style evolved from Analytical Cubism's fragmented forms to Synthetic Cubism's collage techniques. Cubism influenced virtually every avant-garde movement of the 20th century."
+    },
+    "Early_Renaissance": {
+        "name": "Early Renaissance",
+        "period": "1400-1490",
+        "origin": "Italy",
+        "description": "The Early Renaissance marked the beginning of a cultural rebirth in Florence, Italy. Artists developed linear perspective, anatomical accuracy, and naturalistic representation. Pioneers like Masaccio, Botticelli, and Donatello looked to classical antiquity for inspiration. This period laid the foundation for the artistic achievements of the High Renaissance."
+    },
+    "Expressionism": {
+        "name": "Expressionism",
+        "period": "1905-1920",
+        "origin": "Germany",
+        "description": "Expressionism prioritized emotional experience over realistic representation, distorting reality for emotional effect. Artists used bold colors, exaggerated forms, and dynamic brushwork to convey inner feelings. The movement emerged as a reaction against Impressionism and academic art. Key groups included Die Brücke and Der Blaue Reiter."
+    },
+    "Fauvism": {
+        "name": "Fauvism",
+        "period": "1904-1908",
+        "origin": "France",
+        "description": "Fauvism was characterized by bold, non-naturalistic colors and simplified forms. Henri Matisse and André Derain led this movement that shocked audiences at the 1905 Salon d'Automne. Critics called them 'les fauves' (wild beasts) due to their aggressive use of color. Though short-lived, Fauvism paved the way for Expressionism and other modern movements."
+    },
+    "High_Renaissance": {
+        "name": "High Renaissance",
+        "period": "1490-1527",
+        "origin": "Italy",
+        "description": "The High Renaissance represents the pinnacle of Renaissance art, centered in Rome, Florence, and Venice. Leonardo da Vinci, Michelangelo, and Raphael created works of unprecedented technical mastery and emotional depth. Artists achieved perfect balance between naturalism and idealized beauty. This brief but brilliant period produced some of history's most celebrated masterpieces."
+    },
+    "Impressionism": {
+        "name": "Impressionism",
+        "period": "1860-1890",
+        "origin": "France",
+        "description": "Impressionism revolutionized painting by capturing the fleeting effects of light and color in outdoor scenes. Artists like Monet, Renoir, and Degas used visible brushstrokes and pure colors to create vibrant, atmospheric works. They rejected academic conventions and painted modern life directly from observation. The movement's name came from Monet's painting 'Impression, Sunrise.'"
+    },
+    "Mannerism": {
+        "name": "Mannerism",
+        "period": "1520-1600",
+        "origin": "Italy",
+        "description": "Mannerism emerged as artists sought to move beyond the balanced perfection of High Renaissance masters. The style features elongated figures, unusual spatial compositions, and ambiguous emotional content. Artists like Pontormo and Parmigianino created sophisticated, intellectually complex works. Mannerism served as a bridge between the Renaissance and the Baroque."
+    },
+    "Minimalism": {
+        "name": "Minimalism",
+        "period": "1960-1970",
+        "origin": "United States",
+        "description": "Minimalism stripped art down to its essential geometric forms, rejecting personal expression and representation. Artists like Donald Judd and Dan Flavin used industrial materials and simple shapes. The movement emphasized the artwork's relationship with its surrounding space. Minimalism influenced architecture, design, and later conceptual art movements."
+    },
+    "Naive_Art": {
+        "name": "Naive Art",
+        "period": "19th-20th century",
+        "origin": "International",
+        "description": "Naive Art is created by self-taught artists who lack formal academic training. The style is characterized by bold colors, flattened perspective, and childlike simplicity. Henri Rousseau is among the most celebrated naive artists whose work gained recognition from avant-garde circles. The style offers a fresh, unaffected perspective often valued for its authenticity."
+    },
+    "New_Realism": {
+        "name": "New Realism",
+        "period": "1960-1970",
+        "origin": "France",
+        "description": "New Realism was a French movement that incorporated everyday objects and materials into artworks. Founded by critic Pierre Restany, it included artists like Yves Klein and Jean Tinguely. The movement responded to consumer culture by using real-world items rather than representations. It paralleled Pop Art in America but maintained a more critical stance toward mass culture."
+    },
+    "Northern_Renaissance": {
+        "name": "Northern Renaissance",
+        "period": "1430-1580",
+        "origin": "Northern Europe",
+        "description": "The Northern Renaissance developed independently in Flanders, Germany, and the Netherlands. Artists like Jan van Eyck and Albrecht Dürer pioneered oil painting techniques with extraordinary detail. Unlike Italian artists, they emphasized realistic observation over classical idealism. The movement combined Gothic traditions with Renaissance innovations in unique ways."
+    },
+    "Pointillism": {
+        "name": "Pointillism",
+        "period": "1886-1910",
+        "origin": "France",
+        "description": "Pointillism uses tiny dots of pure color that optically blend when viewed from a distance. Georges Seurat developed this scientific approach to Neo-Impressionism based on color theory. The technique required meticulous planning and patience, unlike spontaneous Impressionism. Paul Signac continued to develop and promote the style after Seurat's early death."
+    },
+    "Pop_Art": {
+        "name": "Pop Art",
+        "period": "1950-1970",
+        "origin": "United Kingdom, United States",
+        "description": "Pop Art emerged as a reaction against Abstract Expressionism, embracing popular culture and mass media imagery. Artists like Andy Warhol and Roy Lichtenstein transformed advertisements, comic books, and consumer products into high art. The movement blurred boundaries between fine art and commercial culture. Its bold graphics and ironic commentary continue to influence contemporary art."
+    },
+    "Post_Impressionism": {
+        "name": "Post-Impressionism",
+        "period": "1886-1905",
+        "origin": "France",
+        "description": "Post-Impressionism encompasses diverse styles that developed after Impressionism, pushing art toward abstraction. Van Gogh, Cézanne, and Gauguin each developed unique approaches to color, form, and expression. These artists maintained Impressionism's bright palette while seeking greater emotional and structural depth. Their innovations directly influenced Fauvism, Cubism, and Expressionism."
+    },
+    "Realism": {
+        "name": "Realism",
+        "period": "1840-1880",
+        "origin": "France",
+        "description": "Realism rejected the idealization of Romanticism to depict ordinary life truthfully. Gustave Courbet led this democratic movement that portrayed peasants and workers with dignity. Artists painted contemporary subjects without embellishment or moral commentary. The movement influenced literature and laid groundwork for Impressionism and Social Realism."
+    },
+    "Rococo": {
+        "name": "Rococo",
+        "period": "1720-1780",
+        "origin": "France",
+        "description": "Rococo emerged as a lighter, more playful reaction to the grandeur of Baroque art. The style features pastel colors, delicate ornamentation, and themes of love and leisure. Jean-Antoine Watteau and François Boucher created elegant scenes of aristocratic entertainment. Rococo flourished in France before Neoclassicism brought a return to classical severity."
+    },
+    "Romanticism": {
+        "name": "Romanticism",
+        "period": "1780-1850",
+        "origin": "Europe",
+        "description": "Romanticism emphasized emotion, individualism, and the sublime power of nature over Enlightenment rationalism. Artists like Delacroix, Turner, and Friedrich explored dramatic landscapes and passionate subjects. The movement valued imagination, originality, and intense personal expression. Romanticism profoundly influenced literature, music, and visual arts across Europe."
+    },
+    "Symbolism": {
+        "name": "Symbolism",
+        "period": "1880-1910",
+        "origin": "France",
+        "description": "Symbolism sought to express mystical ideas, emotions, and states of mind through symbolic imagery. Artists rejected naturalism to explore dreams, mythology, and the subconscious. Gustave Moreau and Odilon Redon created enigmatic works rich in personal symbolism. The movement directly influenced Art Nouveau, Expressionism, and Surrealism."
+    },
+    "Synthetic_Cubism": {
+        "name": "Synthetic Cubism",
+        "period": "1912-1920",
+        "origin": "France",
+        "description": "Synthetic Cubism marked the later phase of Cubism, introducing collage and mixed media techniques. Picasso and Braque incorporated newspaper clippings, wallpaper, and other materials into paintings. Colors became brighter and compositions more decorative than Analytical Cubism. This phase emphasized texture, pattern, and the interplay of reality and representation."
+    },
+    "Ukiyo_e": {
+        "name": "Ukiyo-e",
+        "period": "1603-1868",
+        "origin": "Japan",
+        "description": "Ukiyo-e, meaning 'pictures of the floating world,' was a Japanese woodblock print tradition depicting entertainment, landscapes, and kabuki actors. Masters like Hokusai and Hiroshige created iconic images that spread globally after Japan opened to the West. The style's bold outlines, flat colors, and asymmetrical compositions profoundly influenced Impressionism and Art Nouveau. Ukiyo-e represents a unique fusion of popular culture and refined artistic technique."
+    }
+}
